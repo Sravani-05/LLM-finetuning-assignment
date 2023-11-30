@@ -8,17 +8,15 @@ colab: https://colab.research.google.com/drive/1zSMdWNeRBqf8FkzZXRvxEPRD6yYLccO5
 
 b) Implement auto agent
 
-colab: https://colab.research.google.com/drive/1smm0UST7ku6uijFo3klzn35OrCXBmmD0?usp=sharing
-
+colab: https://colab.research.google.com/drive/1Oa9kPPWklLxbhP6N5LBlkI4vrwjlfUlp#scrollTo=4NzZ26MkHYSr
 c) Finetune LLM for your custom task
 
-colab : https://colab.research.google.com/drive/1WmO84pqNjhEh2l9DuEtd2dV1NbIGt_N2?usp=sharing
-
+colab : https://colab.research.google.com/drive/1FlFzsKWVSHnnJacehl-YYD2ZD9NnrECt#scrollTo=TfBzP8gWzkpv
 d) Use QLora to finetune a model. generate custom data set.
 
 I have generated a custom dataset for mental healthcare using multiple Books, PDFs on mental health and using GPT4.
 
-colab: https://colab.research.google.com/drive/1ZbvAf_rg9WRA851DsCU07vuKkE5RyS_q?usp=sharing
+colab: https://colab.research.google.com/drive/1wN4h2uHN8sO856BsRuMIpWMGve39nhoS
 
 e) Use mistral llm with RAG and demonstrate a production usecase.
 
@@ -26,20 +24,15 @@ Built a mental health related basic question anwering chatbot which helps user w
 
 I have generated a custom dataset for mental healthcare using multiple Books, PDFs on mental health and using GPT4.
 
-colab: https://colab.research.google.com/drive/19Cvc60sZ7ANoCtetEzZFABS-Z0HOTIG0?usp=sharing
+colab: https://colab.research.google.com/drive/1szXM7hTpWSaGLTe2u3cqFryN32d-zl2y#scrollTo=387oAcp0HYNn
 
 f) Integrate mistral model as backend with langchain - demonstrate simple prompts
 
-colab: https://colab.research.google.com/drive/1bfsWl_pGPHRd4sQ_sMf6dBxpaH33GgYz?usp=sharing
+colab: https://colab.research.google.com/drive/1-B_PnZSTJv_wsS-pJ6OlN8I6dZGoorr6
 
 g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end.
 
-colab: https://colab.research.google.com/drive/1-rZ2oGf9uC3mh1051z8jA9XftU9PQDRV?usp=sharing
-
+colab: https://colab.research.google.com/drive/1B_mmSqPnYPsSXM5xHS0l80VCMZ-sYh5G
 h) Use LLM studio and LLM Data Studio to demonstrate data set generation, fine tuning, deployment to huggingface and inference (Gradio)
 
-colab: https://colab.research.google.com/drive/15kz5IJ6KEKLoMtW7ere5P8s4GrOvHOQ0?usp=sharing
-
-I have included the demo of the assignments in the video here:
-
-Demo: https://drive.google.com/drive/folders/1Oku01BradEuiPYk4HxHybHuI8uHDQRxA?usp=sharing
+colab: https://colab.research.google.com/drive/1ma-IUFp85A5MLcV93RdYxPSwAe8XQdlE
